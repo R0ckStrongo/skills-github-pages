@@ -1,6 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
+remote_theme: website-templates/jekyll-inclusion
 title: My Test Blog on Github
 description: Test page for a Blog on Github
 
