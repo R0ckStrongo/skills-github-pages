@@ -1,4 +1,4 @@
-remote_theme: website-templates/jekyll-inclusion
+theme: minima
 title: My Test Blog on Github
 description: Test page for a Blog on Github
 
